@@ -1,0 +1,31 @@
+[
+	{
+		"name": "The Basics of Vim: The Text-Editing Rocket for Power Users",
+		"author": "Rockwood Frank",
+		"description": "The best text editor so far, right inside your console. Learn some great new developer skills today!",
+		"link": "the-basics-of-vim",
+		"thumbnail": "basics-of-vim.jpg",
+		"postDate": "Thu, 23 Jan 2020 12:00:00 UTC"
+	},
+	{
+		"name": "Is Neuomorphism the Next Big Thing?",
+		"author": "Rockwood Frank",
+		"description": "The best text editor so far, right inside your console. Learn some great new developer skills today!",
+		"thumbnail": "00001",
+		"postDate": "Wed, 22 Jan 2020 12:00:00 UTC"
+	},
+	{
+		"name": "The Basics of Vim: The Text-Editing Rocket for Power Users",
+		"author": "Rockwood Frank",
+		"description": "The best text editor so far, right inside your console. Learn some great new developer skills today!",
+		"thumbnail": "00001",
+		"postDate": "Mon, 20 Jan 2020 12:00:00 UTC"
+	},
+	{
+		"name": "The Basics of Vim: The Text-Editing Rocket for Power Users",
+		"author": "Rockwood Frank",
+		"description": "The best text editor so far, right inside your console. Learn some great new developer skills today!",
+		"thumbnail": "00001",
+		"postDate": "Fri, 17 Jan 2020 12:00:00 UTC"
+	}
+]
