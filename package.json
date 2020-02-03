@@ -7,7 +7,9 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
+    "babel-runtime": "^6.26.0",
     "gridsome": "^0.7.0",
+    "vue-markdown": "^2.2.4",
     "vuex": "^3.1.2"
   }
 }
